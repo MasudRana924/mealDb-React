@@ -1,0 +1,39 @@
+.header-container{
+    display: flex;
+    background-color: black;
+    height:80px;
+    margin-top: -20px;
+    justify-content: center;
+}
+.image{
+    color:white;
+    text-align: start;
+    padding-left: 200px;
+    width:50%;
+    float: left;
+}
+.button{
+    float: right;
+    width:50%;
+    padding-left: 480px;
+}
+.login{
+  margin-top: 30px;
+  background-color: gold;
+  height: 30px;
+  width:70px;
+  font-size: medium;
+  font-weight: 600;
+  border:1px solid gold;
+  margin-right: 10px;
+
+}
+.signup{
+    margin-top: 30px;
+    background-color: gold;
+    height: 30px;
+    width:70px;
+    font-size: medium;
+    font-weight: 600;
+    border:1px solid gold;  
+}

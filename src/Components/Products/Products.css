@@ -1,0 +1,10 @@
+.meals-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.meals-details{
+
+}
+.meals-details h1{
+    text-align: center;
+}

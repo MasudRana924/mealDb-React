@@ -1,0 +1,19 @@
+.product {
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.product img{
+    height:400px;
+    width:400px;
+    margin-top: 5px;
+}
+.btn{
+    height:30px;
+    width:150px;
+    background-color: gold;
+    border: 1px solid gold;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
